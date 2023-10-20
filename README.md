@@ -9,29 +9,6 @@ I initially created this project in Google Colab; however, if you prefer to use 
 - Python 3.x
 - Pandas library (install using `pip install pandas` if not already installed)
 
-#### Installation
-
-1. Clone this Github repository:
-  
-```bash
-git clone https://github.com/AfonsoPaula/Youtube_API.git
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd Youtube_API
-```
-
-3. Run the Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-4. Open the **'Youtube_API.ipynb'** notebook to see the code in action.
-
-
 <hr>
 
 
